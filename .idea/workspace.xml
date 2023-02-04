@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0179ecd-5525-40b5-82ff-6f58be80b115" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.fleet/run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.fleet/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Снимок экрана 2021-10-15 в 16.35.41.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lib.rs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main.rs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="u39r5uz3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H6N6ZRSQx8pB3o6glrZSCXYo7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/makar/CLionProjects/rust",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "language.rust",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Run">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package rust --bin rust" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package rust --lib test" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::test_1" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package rust --lib test::test_1 -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::tests::test_10" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package rust --bin rust test::tests::test_10 -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::tests::test_11" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package rust --bin rust test::tests::test_11 -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::tests::test_7" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package rust --bin rust test::tests::test_7 -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test lib::test" />
+        <item itemvalue="Cargo.Test test::test_1" />
+        <item itemvalue="Cargo.Test test::tests::test_11" />
+        <item itemvalue="Cargo.Test test::tests::test_10" />
+        <item itemvalue="Cargo.Test test::tests::test_7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0179ecd-5525-40b5-82ff-6f58be80b115" name="Changes" comment="" />
+      <created>1667601399119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667601399119</updated>
+      <workItem from="1667601401463" duration="3661000" />
+      <workItem from="1667606013447" duration="598000" />
+      <workItem from="1667607544853" duration="177000" />
+      <workItem from="1667919130453" duration="7839000" />
+      <workItem from="1668039032822" duration="1950000" />
+      <workItem from="1668042179306" duration="8000" />
+      <workItem from="1668083381621" duration="4603000" />
+      <workItem from="1668104478635" duration="3730000" />
+      <workItem from="1668160256625" duration="11338000" />
+      <workItem from="1668186858355" duration="17000" />
+      <workItem from="1668460843851" duration="639000" />
+      <workItem from="1668613306660" duration="7072000" />
+      <workItem from="1668675051700" duration="6607000" />
+      <workItem from="1668855570922" duration="169000" />
+      <workItem from="1668863893537" duration="12123000" />
+      <workItem from="1669036194285" duration="17564000" />
+      <workItem from="1669098650454" duration="1160000" />
+      <workItem from="1669104794632" duration="1735000" />
+      <workItem from="1669113720982" duration="8249000" />
+      <workItem from="1669147197615" duration="2225000" />
+      <workItem from="1669200530918" duration="1422000" />
+      <workItem from="1669220093722" duration="2000" />
+      <workItem from="1669295239383" duration="111000" />
+      <workItem from="1669384444244" duration="3153000" />
+      <workItem from="1669482805031" duration="588000" />
+      <workItem from="1669483701597" duration="1650000" />
+      <workItem from="1669488665268" duration="2865000" />
+      <workItem from="1669498958931" duration="6526000" />
+      <workItem from="1669544488138" duration="8823000" />
+      <workItem from="1669561788742" duration="1058000" />
+      <workItem from="1669568990924" duration="7505000" />
+      <workItem from="1669585847897" duration="4000" />
+      <workItem from="1669589388204" duration="2738000" />
+      <workItem from="1669593703271" duration="329000" />
+      <workItem from="1669648887731" duration="151000" />
+      <workItem from="1669649143297" duration="92000" />
+      <workItem from="1669653069714" duration="56000" />
+      <workItem from="1669673388857" duration="277000" />
+      <workItem from="1669714639566" duration="117000" />
+      <workItem from="1669714881567" duration="79000" />
+      <workItem from="1669822424259" duration="13000" />
+      <workItem from="1670098108451" duration="12000" />
+      <workItem from="1670103689994" duration="11000" />
+      <workItem from="1671141019581" duration="22326000" />
+      <workItem from="1671189339716" duration="6062000" />
+      <workItem from="1671195439521" duration="369000" />
+      <workItem from="1671216245975" duration="1300000" />
+      <workItem from="1671269564968" duration="86000" />
+      <workItem from="1671401331157" duration="3480000" />
+      <workItem from="1671453531428" duration="293000" />
+      <workItem from="1671455653125" duration="1341000" />
+      <workItem from="1671459841441" duration="269000" />
+      <workItem from="1671468477220" duration="2000" />
+      <workItem from="1671487824384" duration="1545000" />
+      <workItem from="1671792430070" duration="199000" />
+      <workItem from="1671903301870" duration="211000" />
+      <workItem from="1672010898173" duration="6000" />
+      <workItem from="1672011273712" duration="12000" />
+      <workItem from="1672011292368" duration="655000" />
+      <workItem from="1672679015210" duration="780000" />
+      <workItem from="1672744044825" duration="1982000" />
+      <workItem from="1672873918948" duration="8628000" />
+      <workItem from="1672887707928" duration="10000" />
+      <workItem from="1672968259576" duration="1074000" />
+      <workItem from="1672969479790" duration="1662000" />
+      <workItem from="1673036861125" duration="702000" />
+      <workItem from="1675535954474" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

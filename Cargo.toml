@@ -1,0 +1,6 @@
+[package]
+name = "rust"
+version = "1.66.0"
+edition = "2021"
+
+
